@@ -1,0 +1,52 @@
+td{
+    width: 350px;
+    height: 250px;
+    
+    padding: 0px;
+    margin: 30px;
+}
+.recipe-images{
+    width: 350px;
+    height: 250px;
+}
+.name{
+    text-align: center;
+    background-color: gray;
+    border-radius: 25px;
+    height: 30px;
+    font-size: 30px;
+}
+.food{
+    box-shadow: 5px 10px whitesmoke;
+}
+body{
+    background-color: antiquewhite;
+    padding: 0;
+margin: 0;
+
+}
+.elements{
+    padding-left: 10px;
+}
+.navigation-bar{
+    text-align: right;
+    background-color: rgba(0,0,0,0.5);
+    padding: 30px;
+    font-size: 20px;
+}
+.header{
+    padding: 1em;
+}
+.navigation-bar{
+    background-color: rgba(0,0,0,0.5);
+    text-align: right;
+    padding: 30px;
+    color: #176B87;
+    margin: 0;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+   
+    }
+    
+   
